@@ -16,3 +16,7 @@ c++ sed.cpp -o "$workdir/clean-lines"
   cat -n textfile
 )
 ```
+
+## License
+
+I license my C++ wrapper under the [MIT License](LICENSE). It calls the separately installed GNU sed program.
